@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hello hi
+=======
+>>>>>>> parent of 70adc0a... commit 3
